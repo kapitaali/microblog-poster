@@ -1,4 +1,10 @@
-=== Microblog Poster - Auto Publish on Social Media ===
+# Updated to 2.1.6
+
+- Downloaded the sources from https://plugins.svn.wordpress.org/microblog-poster/tags/2.1.6/
+- Copied them over to this forked repo
+- Fixed the annoying error that didn't allow this plugin to be used in later Wordpress versions: change {} to [] on line 101 in the file microblogposter_oauth.php
+
+# === Microblog Poster - Auto Publish on Social Media ===
 Contributors: cybperic
 Tags: microblogging, bookmarking, bookmarks, auto posts, auto publish, social signals, cross-post, cross post, auto submit, auto update, social networks, social media, twitter, facebook, linkedin, tumblr, delicious, diigo, plurk, blogger, automatic, automation, links, backlinks, auto updates status, social media auto publish, social network auto publish, publish to twitter, publish to facebook
 Requires at least: 3.0
