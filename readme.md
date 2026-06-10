@@ -1,4 +1,4 @@
-# Updated to 2.1.6
+# Updated to 2.1.6 (by kapitaali)
 
 - Downloaded the sources from https://plugins.svn.wordpress.org/microblog-poster/tags/2.1.6/
 - Copied them over to this forked repo
