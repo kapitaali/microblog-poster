@@ -4,7 +4,7 @@
 - Copied them over to this forked repo
 - Fixed the annoying error that didn't allow this plugin to be used in later Wordpress versions: change {} to [] on line 101 in the file microblogposter_oauth.php
 
-# === Microblog Poster - Auto Publish on Social Media ===
+# Microblog Poster - Auto Publish on Social Media 
 Contributors: cybperic
 Tags: microblogging, bookmarking, bookmarks, auto posts, auto publish, social signals, cross-post, cross post, auto submit, auto update, social networks, social media, twitter, facebook, linkedin, tumblr, delicious, diigo, plurk, blogger, automatic, automation, links, backlinks, auto updates status, social media auto publish, social network auto publish, publish to twitter, publish to facebook
 Requires at least: 3.0
@@ -15,7 +15,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Auto publish your new and old blog content to Social Networks. Auto post to Twitter, Facebook, Linkedin, Pinterest, Blogger, Tumblr..
 
-== Description ==
+## Description 
 
 **Auto publish to your social media accounts** your new blog posts/pages/custom post types.
 You only have to configure your social network accounts like Facebook, Twitter, LinkedIn, Tumblr.. 
@@ -83,7 +83,7 @@ see "posted by MicroblogPoster" in your updates, you'll see "posted by your own 
 - Auto share to twitter , facebook , linkedin
 - Auto post to social media networks, Auto tweet
 
-== Screenshots ==
+## Screenshots 
 
 1. MicroblogPoster Options page, General Section. (Part 1)
 
@@ -107,7 +107,7 @@ see "posted by MicroblogPoster" in your updates, you'll see "posted by your own 
 
 11. MicroblogPoster Options page, Logs Section. (Part 2)
 
-== Changelog ==
+## Changelog 
 
 = 1.8.5 (17-05-2017) =
 - #bug: fixing save button disabled for twitter account creation.
